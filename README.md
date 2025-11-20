@@ -1,0 +1,17 @@
+- Flutter
+- Git
+- .net C#
+- Microsoft Proyect
+- ServiceNow
+- SAP
+- Office
+- IA for Work (Copilot, Teams, Agents IA, ...)
+- JavaScript, Json, HTML5.
+- Figma.
+- Microsoft Visio.
+- Bizagi.
+- Oracle PLSQL.
+- Cascada y Scrum.
+- Analista Funcional SR para Claro Perú y Divemotor.
+- Desarrollador .net NTT DATA y HITSS Perú.
+- Consultor Freelance proyectos web, mobile y scraping (python).
